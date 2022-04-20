@@ -10,7 +10,7 @@ In the main function, simply display a message in the terminal.
 
 # Development Environment
 
-IDE Used: Visual Studio Code (w/ the JVM interpreter)
+IDE Used: Visual Studio Code (w/ the JVM interpreter and the JRE, or Java Runtime Environment)
 
 # Useful Websites
 
